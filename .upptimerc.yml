@@ -13,6 +13,8 @@ sites:
       - 200
   - name: DLC ModMail
     url: https://dlc-modmail.samosaman73.repl.co
+    expectedStatusCodes:
+      - 200
 
 
 status-website:
