@@ -14,7 +14,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
 
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.discordapp.com/attachments/840649002449764402/840973269997191198/0001-18582894259.jpg
   name: "Discord Development Centre"
   introTitle: "Status Page"
   introMessage: "Here is where our customers can see the status of their bots."
