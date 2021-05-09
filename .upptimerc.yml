@@ -5,8 +5,12 @@ repo: status # The name of this repository
 sites:
   - name: Master Bot
     url: https://MasterBot.DLCDevelopment.repl.co
+    expectedStatusCodes:
+      - 200
   - name: DLC Bot
     url: https://dlc-bot.samosaman73.repl.co
+    expectedStatusCodes:
+      - 200
 
 
 status-website:
@@ -20,7 +24,7 @@ status-website:
   introMessage: "Here is where our customers can see the status of their bots."
   navbar:
     - title: Status
-      href: /
+      href: /status
     - title: Discord
       href: https://DLC.rf.gd
 
