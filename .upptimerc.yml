@@ -18,9 +18,9 @@ status-website:
 
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Discord Development Centre
+  name: "Discord Development Centre"
   introTitle: "Status Page"
-  introMessage: Here is where our customers can see the status of their bots. 
+  introMessage: "Here is where our customers can see the status of their bots."
   navbar:
     - title: Status
       href: /
