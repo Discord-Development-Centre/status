@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/masterbot.dlcdevelopment.repl.co",
     "slug": "master-bot",
     "status": "down",
-    "uptime": "1.37%",
-    "uptimeDay": "1.37%",
-    "uptimeWeek": "1.37%",
-    "uptimeMonth": "1.37%",
-    "uptimeYear": "1.37%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "uptime": "0.54%",
+    "uptimeDay": "0.54%",
+    "uptimeWeek": "0.54%",
+    "uptimeMonth": "0.54%",
+    "uptimeYear": "0.54%",
+    "time": 213,
+    "timeDay": 213,
+    "timeWeek": 213,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {
-      "2021-05-09": 37
+      "2021-05-09": 96
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://dlc-bot.samosaman73.repl.co",
     "icon": "https://favicons.githubusercontent.com/dlc-bot.samosaman73.repl.co",
     "slug": "dlc-bot",
-    "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
-    "time": 155,
-    "timeDay": 155,
-    "timeWeek": 155,
-    "timeMonth": 155,
-    "timeYear": 155,
+    "status": "up",
+    "uptime": "78.22%",
+    "uptimeDay": "78.22%",
+    "uptimeWeek": "78.22%",
+    "uptimeMonth": "78.22%",
+    "uptimeYear": "78.22%",
+    "time": 167,
+    "timeDay": 167,
+    "timeWeek": 167,
+    "timeMonth": 167,
+    "timeYear": 167,
     "dailyMinutesDown": {
-      "2021-05-09": 0
+      "2021-05-09": 21
     }
   }
 ]
