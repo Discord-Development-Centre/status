@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: Status Page
-    url: https://https://discord-development-centre.github.io/status
+    url: https://discord-development-centre.github.io/status
     expectedStatusCodes:
       - 200
   - name: Master Bot
