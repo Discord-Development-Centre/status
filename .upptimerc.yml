@@ -19,6 +19,10 @@ sites:
     url: https://dlc-modmail.samosaman73.repl.co
     expectedStatusCodes:
       - 200
+  - name: Economy Police
+    url: https://economy-police-tasosisdev.dlcdevelopment.repl.co/
+    expectedStatusCodes:
+      - 200
 
 
 
