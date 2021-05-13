@@ -23,6 +23,10 @@ sites:
     url: https://economy-police-tasosisdev.dlcdevelopment.repl.co/
     expectedStatusCodes:
       - 200
+   - name: DLC Economy
+   url: https://dlc-economy.dlcdevelopment.repl.co/
+   expectedStatusCodes:
+     - 200
 
 
 
