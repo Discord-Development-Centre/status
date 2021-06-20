@@ -11,6 +11,10 @@ sites:
     url: https://dlc-bot.samosaman73.repl.co
     expectedStatusCodes:
       - 200
+  - name: TSU
+    url: https://TSU.DLCDevelopment.repl.co
+    expectedStatusCodes:
+      - 200
 
 
 
