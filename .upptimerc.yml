@@ -15,18 +15,6 @@ sites:
     url: https://dlc-bot.samosaman73.repl.co
     expectedStatusCodes:
       - 200
-  - name: ModMail for DLC
-    url: https://dlc-modmail.samosaman73.repl.co
-    expectedStatusCodes:
-      - 200
-  - name: Economy Police
-    url: https://economy-police-tasosisdev.dlcdevelopment.repl.co/
-    expectedStatusCodes:
-      - 200
-   - name: DLC Economy
-   url: https://dlc-economy.dlcdevelopment.repl.co/
-   expectedStatusCodes:
-     - 200
 
 
 
