@@ -15,6 +15,10 @@ sites:
     url: https://TSU.DLCDevelopment.repl.co
     expectedStatusCodes:
       - 200
+  - name: NES
+    url: https://NES.DLCDevelopment.repl.co
+    expectedStatusCodes:
+      - 200
 
 
 
