@@ -52,19 +52,19 @@
     "url": "https://TSU.DLCDevelopment.repl.co",
     "icon": "https://favicons.githubusercontent.com/tsu.dlcdevelopment.repl.co",
     "slug": "tsu",
-    "status": "up",
-    "uptime": "96.48%",
-    "uptimeDay": "88.02%",
-    "uptimeWeek": "91.51%",
-    "uptimeMonth": "93.16%",
-    "uptimeYear": "96.48%",
+    "status": "down",
+    "uptime": "96.54%",
+    "uptimeDay": "89.01%",
+    "uptimeWeek": "91.50%",
+    "uptimeMonth": "93.27%",
+    "uptimeYear": "96.54%",
     "time": 527,
-    "timeDay": 202,
+    "timeDay": 200,
     "timeWeek": 226,
     "timeMonth": 435,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2021-08-18": 142,
+      "2021-08-18": 144,
       "2021-08-17": 171,
       "2021-08-16": 161,
       "2021-08-15": 101,
@@ -92,7 +92,7 @@
       "2021-07-24": 75,
       "2021-07-23": 124,
       "2021-07-22": 156,
-      "2021-07-21": 106
+      "2021-07-21": 57
     }
   },
   {
@@ -112,7 +112,7 @@
     "timeMonth": 185,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2021-08-18": 1048,
+      "2021-08-18": 1066,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
       "2021-08-15": 1440,
