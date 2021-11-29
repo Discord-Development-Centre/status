@@ -42,18 +42,18 @@
     "icon": "https://favicons.githubusercontent.com/dlc-bot.samosaman73.repl.co",
     "slug": "dlc-bot",
     "status": "down",
-    "uptime": "88.09%",
+    "uptime": "88.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "26.32%",
-    "uptimeYear": "88.09%",
+    "uptimeMonth": "26.14%",
+    "uptimeYear": "88.07%",
     "time": 625,
     "timeDay": 112,
     "timeWeek": 200,
     "timeMonth": 273,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2021-11-29": 31,
+      "2021-11-29": 108,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
@@ -107,10 +107,10 @@
     "url": "https://TSU.DLCDevelopment.repl.co",
     "icon": "https://favicons.githubusercontent.com/tsu.dlcdevelopment.repl.co",
     "slug": "tsu",
-    "status": "up",
+    "status": "down",
     "uptime": "97.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.54%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "97.56%",
     "uptimeMonth": "91.23%",
     "uptimeYear": "97.75%",
     "time": 432,
@@ -119,6 +119,7 @@
     "timeMonth": 307,
     "timeYear": 432,
     "dailyMinutesDown": {
+      "2021-11-29": 2,
       "2021-11-26": 85,
       "2021-11-25": 61,
       "2021-11-22": 103,
@@ -156,7 +157,7 @@
       "2021-10-21": 223,
       "2021-10-20": 108,
       "2021-10-19": 119,
-      "2021-10-18": 42
+      "2021-10-18": 26
     }
   },
   {
@@ -176,7 +177,7 @@
     "timeMonth": 322,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2021-11-29": 31,
+      "2021-11-29": 108,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
       "2021-11-26": 1440,
