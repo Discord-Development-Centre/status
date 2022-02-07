@@ -42,18 +42,18 @@
     "icon": "https://favicons.githubusercontent.com/dlc-bot.samosaman73.repl.co",
     "slug": "dlc-bot",
     "status": "down",
-    "uptime": "65.45%",
+    "uptime": "65.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.45%",
+    "uptimeYear": "65.41%",
     "time": 582,
     "timeDay": 260,
     "timeWeek": 235,
     "timeMonth": 220,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2022-02-07": 561,
+      "2022-02-07": 807,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
@@ -177,9 +177,9 @@
     "url": "https://TSU.DLCDevelopment.repl.co",
     "icon": "https://favicons.githubusercontent.com/tsu.dlcdevelopment.repl.co",
     "slug": "tsu",
-    "status": "up",
+    "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "95.10%",
+    "uptimeDay": "95.09%",
     "uptimeWeek": "94.95%",
     "uptimeMonth": "94.96%",
     "uptimeYear": "98.66%",
@@ -245,8 +245,7 @@
       "2021-12-15": 89,
       "2021-12-14": 44,
       "2021-12-13": 71,
-      "2021-12-12": 91,
-      "2021-12-11": 19
+      "2021-12-12": 91
     }
   },
   {
@@ -266,7 +265,7 @@
     "timeMonth": 197,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2022-02-07": 561,
+      "2022-02-07": 807,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
