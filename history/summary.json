@@ -68,7 +68,7 @@
     "timeMonth": 324,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2022-03-20": 849,
+      "2022-03-20": 891,
       "2022-03-19": 1440,
       "2022-03-18": 1440,
       "2022-03-17": 1440,
@@ -233,12 +233,12 @@
     "url": "https://TSU.DLCDevelopment.repl.co",
     "icon": "https://favicons.githubusercontent.com/tsu.dlcdevelopment.repl.co",
     "slug": "tsu",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "79.41%",
+    "status": "down",
+    "uptime": "98.38%",
+    "uptimeDay": "79.39%",
     "uptimeWeek": "86.11%",
     "uptimeMonth": "87.23%",
-    "uptimeYear": "98.37%",
+    "uptimeYear": "98.38%",
     "time": 570,
     "timeDay": 1277,
     "timeWeek": 1394,
@@ -282,8 +282,7 @@
       "2022-02-14": 104,
       "2022-02-13": 31,
       "2022-02-12": 78,
-      "2022-02-11": 48,
-      "2022-02-10": 46
+      "2022-02-11": 48
     }
   },
   {
@@ -303,7 +302,7 @@
     "timeMonth": 868,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2022-03-20": 849,
+      "2022-03-20": 891,
       "2022-03-19": 1440,
       "2022-03-18": 1440,
       "2022-03-17": 1440,
