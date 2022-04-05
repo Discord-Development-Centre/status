@@ -6,9 +6,9 @@
     "slug": "master-bot",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "94.75%",
-    "uptimeMonth": "97.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.86%",
+    "uptimeMonth": "97.69%",
     "uptimeYear": "99.52%",
     "time": 1790,
     "timeDay": 11105,
@@ -16,7 +16,6 @@
     "timeMonth": 4414,
     "timeYear": 1790,
     "dailyMinutesDown": {
-      "2022-04-05": 12,
       "2022-04-02": 23,
       "2022-04-01": 95,
       "2022-03-31": 80,
@@ -79,7 +78,7 @@
     "timeMonth": 701,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2022-04-05": 335,
+      "2022-04-05": 347,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
       "2022-04-02": 1440,
@@ -260,12 +259,12 @@
     "url": "https://TSU.DLCDevelopment.repl.co",
     "icon": "https://favicons.githubusercontent.com/tsu.dlcdevelopment.repl.co",
     "slug": "tsu",
-    "status": "up",
-    "uptime": "97.70%",
-    "uptimeDay": "63.04%",
-    "uptimeWeek": "67.77%",
-    "uptimeMonth": "78.18%",
-    "uptimeYear": "97.70%",
+    "status": "down",
+    "uptime": "97.73%",
+    "uptimeDay": "63.02%",
+    "uptimeWeek": "67.82%",
+    "uptimeMonth": "78.49%",
+    "uptimeYear": "97.73%",
     "time": 697,
     "timeDay": 316,
     "timeWeek": 2511,
@@ -300,7 +299,7 @@
       "2022-03-11": 309,
       "2022-03-10": 254,
       "2022-03-09": 252,
-      "2022-03-08": 281
+      "2022-03-08": 144
     }
   },
   {
@@ -320,7 +319,7 @@
     "timeMonth": 956,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2022-04-05": 335,
+      "2022-04-05": 347,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
       "2022-04-02": 1440,
