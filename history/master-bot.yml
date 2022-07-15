@@ -1,7 +1,7 @@
 url: https://MasterBot.DLCDevelopment.repl.co
-status: up
-code: 200
-responseTime: 10354
-lastUpdated: 2022-07-15T03:32:17.709Z
+status: down
+code: 429
+responseTime: 4336
+lastUpdated: 2022-07-15T08:16:22.833Z
 startTime: Sun May 09 2021 15:26:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
