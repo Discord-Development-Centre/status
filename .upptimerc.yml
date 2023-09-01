@@ -6,6 +6,8 @@ sites:
   - name: Lifeguard
     url: https://lifeguard.samosaman73.repl.co
     assignees: samosaman73
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,7 +20,7 @@ status-website:
   introMessage: This page shows the status of DLC connected services.
   navbar:
     - title: Status
-      href: /
+      href: /status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
