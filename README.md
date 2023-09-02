@@ -1,6 +1,6 @@
 # [📈 Live Status](https://Discord-Development-Centre.github.io/status): <!--live status--> **🟥 Complete outage**
 
-This repository contains the open-source uptime monitor and status page for [Discord-Development-Centre](https://Discord-Development-Centre.github.io/status), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the uptime monitor and status page for [Discord-Development-Centre](https://Discord-Development-Centre.github.io/status).
 
 [![Uptime CI](https://github.com/Discord-Development-Centre/status/workflows/Uptime%20CI/badge.svg)](https://github.com/Discord-Development-Centre/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Discord-Development-Centre/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Discord-Development-Centre/status/actions?query=workflow%3A%22Response+Time+CI%22)
