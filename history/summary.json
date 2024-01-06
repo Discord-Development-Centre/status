@@ -6,7 +6,7 @@
     "slug": "lifeguard",
     "status": "down",
     "uptime": "1.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "97.17%",
     "uptimeWeek": "18.43%",
     "uptimeMonth": "2.33%",
     "uptimeYear": "1.60%",
@@ -16,7 +16,8 @@
     "timeMonth": 14814,
     "timeYear": 16191,
     "dailyMinutesDown": {
-      "2024-01-05": 0,
+      "2024-01-06": 35,
+      "2024-01-05": 6,
       "2024-01-04": 1017,
       "2024-01-03": 1440,
       "2024-01-02": 1440,
