@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lifeguard.samosaman73.repl.co.ico",
     "slug": "lifeguard",
     "status": "up",
-    "uptime": "63.02%",
+    "uptime": "63.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.94%",
-    "time": 5713,
-    "timeDay": 671,
-    "timeWeek": 809,
-    "timeMonth": 892,
-    "timeYear": 4767,
+    "uptimeYear": "68.22%",
+    "time": 5702,
+    "timeDay": 1555,
+    "timeWeek": 901,
+    "timeMonth": 902,
+    "timeYear": 4721,
     "dailyMinutesDown": {
       "2024-02-07": 1367,
       "2024-02-06": 1440,
@@ -132,8 +132,7 @@
       "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
-      "2023-10-05": 1440,
-      "2023-10-04": 1440
+      "2023-10-05": 1440
     }
   }
 ]
